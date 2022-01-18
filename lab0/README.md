@@ -31,6 +31,26 @@ Installing on macOS
    Anaconda Prompt, run the command ``conda list``. A list of installed packages appears
    if it has been installed correctly.
    
+===================
+Installing on Linux (only difference is the installer file download)
+===================
+
+### Download the installer:
+
+   * `Miniconda installer for Linux <https://docs.conda.io/en/latest/miniconda.html#linux-installers>`_.
+
+   * `Anaconda installer for Linux <https://www.anaconda.com/download/>`_.
+ 
+
+### In your terminal window, run:
+
+   * Miniconda:
+
+
+        bash Miniconda3-latest-Linux-x86_64.sh
+
+ 
+    
 # Install PyTorch
 
    * Enter your virtual conda env and then 
