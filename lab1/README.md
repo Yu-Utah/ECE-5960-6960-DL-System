@@ -2,7 +2,7 @@
 
 ## Question. 1 - Solving minimization problem with iteration gradient descent method
 
-### Q1(a) : f(x) = e^(-(x - 0.7)^2)
+### Q1(a) : f(x) = -e^(-(x - 0.7)^2)
 
 ### Q1(b): f(x0,x1) = .5*(1 - x0)^2 + (x1 - x0^2)^2
 
@@ -10,7 +10,7 @@
 
 ## Question. 2 - Implement your gradient solving approach in python using Numpy
 
-### Q2(a) : f(x) = e^(-(x - 0.7)^2)
+### Q2(a) : f(x) = -e^(-(x - 0.7)^2)
 
 ### Q2(b): f(x0,x1) = .5*(1 - x0)^2 + (x1 - x0^2)^2
 
