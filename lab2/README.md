@@ -1,4 +1,4 @@
-# LAB 2 -- Backpropogation, Computation Grpah, and hand-crafted MLP
+# LAB 2 -- Backpropogation, Computation Graph, and hand-crafted MLP
 
 ## Q1-a: Construct the computation graph and perform at least two iterations of GD optimization. Show all your steps.
 
