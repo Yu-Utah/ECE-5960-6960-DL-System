@@ -2,7 +2,7 @@
 
 ## Q1-a: Construct the computation graph and perform at least two iterations of GD optimization. Show all your steps.
 
-    1) function: f(x, w0, w1, b0, b1) = ( (x*w0) + b0 ) * w0 + b1
+    1) function: f(x, w0, w1, b0, b1) = ( (x*w0) + b0 ) * w1 + b1
     2) initial values: w0=3, b0 = -1, w1 = 2, b1 = 2
     3) Data point: x = 1, y=5
     
